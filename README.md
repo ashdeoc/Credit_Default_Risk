@@ -10,4 +10,5 @@ The data mining goal is to analyze historical loan application data to predict t
 
 https://kaggle.com/c/home-credit-default-risk
 
- T
+ 
+<img width="794" alt="schema" src="https://user-images.githubusercontent.com/119459828/217062523-b9728399-a59c-4e8c-b718-9266bddd873f.png">
